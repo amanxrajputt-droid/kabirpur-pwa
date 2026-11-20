@@ -1,0 +1,43 @@
+{
+  "name": "कबीरपुर गाँव | Kabirpur Village",
+  "short_name": "Kabirpur",
+  "description": "कबीरपुर गाँव — गोपालगंज, बिहार | Official village website of Kabirpur, Sidhwalia, Gopalganj, Bihar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#061209",
+  "theme_color": "#061209",
+  "lang": "hi",
+  "dir": "ltr",
+  "categories": ["lifestyle", "education", "travel"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "गैलरी देखें",
+      "short_name": "Gallery",
+      "description": "View Kabirpur photo gallery",
+      "url": "./index.html#gallery"
+    },
+    {
+      "name": "स्थान देखें",
+      "short_name": "Location",
+      "description": "Find Kabirpur on map",
+      "url": "./index.html#location"
+    }
+  ]
+}
